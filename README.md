@@ -33,6 +33,6 @@ registry.IncrCounterWithLabels(
 ```
 
 ## TODO
-[ ] Unit tests
-[ ] Test in an actual service
-[ ] Add ability to pre-define gauges/counters/summaries to reduce allocations (similar to the prom sink)
+- [ ] Unit tests
+- [ ] Test in an actual service
+- [ ] Add ability to pre-define gauges/counters/summaries to reduce allocations (similar to the prom sink)
